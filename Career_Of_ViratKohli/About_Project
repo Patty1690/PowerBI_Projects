@@ -1,1 +1,44 @@
+# Career of Virat Kohli – Power BI Storytelling
+## Overview
+This project is a Power BI presentation narrating the illustrious cricket career of Virat Kohli. It uses interactive visuals, statistics, and timelines to present his journey from debut to becoming one of the world’s most celebrated batsmen. The dashboard tells a data-driven story of his achievements, consistency, and impact on the game.
 
+## Features
+Career Timeline – Key milestones from debut to present day.
+
+Performance Analytics – Runs scored, centuries, strike rates, and averages across formats.
+
+Format-wise Analysis – Separate views for Test, ODI, and T20I performances.
+
+Opponent & Venue Stats – Kohli’s records against specific teams and in various countries.
+
+Captaincy Insights – Team performance during his leadership.
+
+Awards & Milestones – ICC awards, records, and personal achievements.
+
+## Data Sources
+Official cricket statistics databases (e.g., ESPNcricinfo, ICC).
+
+Manually compiled match-by-match data.
+
+Historical archives for older performances.
+
+## Tools & Technologies
+Microsoft Power BI for visualization and storytelling.
+
+Power Query for cleaning and shaping cricket stats.
+
+DAX for calculated cricket metrics (e.g., batting average, win percentage).
+
+Excel/CSV datasets for historical data input.
+
+## Usage
+Open the Power BI report or view the live presentation.
+
+Use slicers to filter by year, opponent, venue, or match format.
+
+Follow the guided slides for a narrative flow.
+
+Interact with visuals to dive deeper into specific matches or series.
+
+## Author
+Prepared by Prateek Bag as part of a cricket analytics storytelling project.
