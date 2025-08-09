@@ -1,0 +1,40 @@
+# Weather API Dashboard
+## Overview
+This project is a Power BI presentation that visualizes real-time and historical weather data fetched from an external Weather API. The dashboard provides users with insights into temperature patterns, precipitation trends, and other key meteorological indicators.
+
+## Features
+Real-Time Weather Data – Displays current conditions for selected locations.
+
+Historical Trends – Compare past weather data to identify seasonal patterns.
+
+Geospatial Mapping – Weather conditions plotted on interactive maps.
+
+Parameter Filtering – Filter by city, date, or weather metric (temperature, humidity, rainfall, etc.).
+
+API Integration – Automated data refresh from Weather API endpoints.
+
+## Data Sources
+Public or commercial Weather APIs (e.g., OpenWeatherMap, Weatherbit, AccuWeather).
+
+Local CSV or database backups for historical comparisons.
+
+## Tools & Technologies
+Microsoft Power BI for visualization.
+
+API Query Integration via Power Query or custom scripts.
+
+DAX for calculated measures and KPIs.
+
+JSON data parsing from API responses.
+
+## Usage
+Connect Power BI to the Weather API endpoint using your API key.
+
+Refresh the dataset to pull the latest weather data.
+
+Use filters to view specific regions or weather parameters.
+
+Follow the story sequence in the presentation for a guided analysis.
+
+## Author
+Prepared by Prateek Bag as part of a weather data visualization initiative.
